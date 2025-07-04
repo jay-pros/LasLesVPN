@@ -1,6 +1,7 @@
 # 🔒 LaslesVPN
 
-![Hero Banner: Secure & Fast VPN Experience](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![NailedItGIF](https://github.com/user-attachments/assets/28152a04-1634-4517-ab05-dd5057a59156)
+
 
 Welcome to **LaslesVPN** — your secure gateway to the internet. Fast, private, and reliable VPN service designed with a clean, modern web interface. 🌐🚀
 
@@ -52,8 +53,7 @@ LaslesVPN/
 ## 🌐 Live Demo
 
 Explore the live preview of LaslesVPN:
-
-![Demo Preview GIF](https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif)
+![TripVacationModeGIF](https://github.com/user-attachments/assets/eb5d6ecb-ad3c-4d74-9605-d99b01d2219e)
 
 ---
 
@@ -67,11 +67,11 @@ To run this project locally:
    cd LaslesVPN
 ````
 
-2. **Open `index.html`**
-   Launch the webpage by opening `index.html` in your browser.
+2. **Open `project.html`**
+   Launch the webpage by opening `project.html` in your browser.
 
 3. **Explore**
-   Browse the features, test responsiveness, and interact with elements.
+   Browse the features, test responsiveness(still working on), and interact with elements.
 
 ---
 
@@ -89,6 +89,7 @@ To run this project locally:
 We welcome contributions! You can:
 
 * Report bugs or typos 🐞
+* Help with responsiveness🚗🚑
 * Suggest design or content improvements 🎨
 * Submit pull requests for new features ✨
 
