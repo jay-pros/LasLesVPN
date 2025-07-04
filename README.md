@@ -62,10 +62,9 @@ Explore the live preview of LaslesVPN:
 To run this project locally:
 
 1. **Clone the Repository**  
-   ```bash
+   ```
    git clone https://github.com/YourUsername/LaslesVPN.git
-   cd LaslesVPN
-````
+   cd LaslesVPN```
 
 2. **Open `project.html`**
    Launch the webpage by opening `project.html` in your browser.
@@ -105,9 +104,9 @@ Thanks to open-source resources and the developer community! ❤️
 
 ## 👥 Collaborators
 
-[@YourUsername](https://github.com/jay-pros)
-[@Teammate1](https://github.com/Oledingwa24)
-[@Teammate2](https://github.com/favourcell)
+[Obidiegwu Jemima](https://github.com/jay-pros)
+[Oledingwa Victoria](https://github.com/Oledingwa24)
+[Ojedokun Favour](https://github.com/favourcell)
 
 * ⭐ Star the repo if you found it helpful or inspiring!
 
